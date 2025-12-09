@@ -13,22 +13,22 @@
 - Указать файл с бэкапом dvdrental.tar
 
 
-Инсталятор БД: https://www.postgresql.org/download/windows/ 
+Инсталятор БД: 
+https://www.postgresql.org/download/windows/ 
 
-pgadmin: https://www.pgadmin.org/download/pgadmin-4-windows/ 
+pgadmin: 
+https://www.pgadmin.org/download/pgadmin-4-windows/ 
 
-БД для восстановления: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/ 
+БД для восстановления: 
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/ 
 
 Как восстанавливать БД
-
 https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/ 
-
 
 Доп.материалы:
 
-https://tproger.ru/translations/sql-recap/ 
-https://habr.com/ru/post/564390/ 
-https://www.w3schools.com/sql/sql_syntax.asp 
-https://proglib.io/p/sql-cheat-sheet 
-
-https://sql-academy.org/ru/trainer
+- https://tproger.ru/translations/sql-recap/ 
+- https://habr.com/ru/post/564390/ 
+- https://www.w3schools.com/sql/sql_syntax.asp 
+- https://proglib.io/p/sql-cheat-sheet 
+- https://sql-academy.org/ru/trainer
