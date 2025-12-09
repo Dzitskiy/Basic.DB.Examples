@@ -29,7 +29,7 @@ INSERT INTO employees (name, department_id, salary) VALUES
 ('Bob', 1, 55000),      -- IT
 ('Charlie', 2, 50000),  -- HR
 ('David', 3, 65000),    -- Sales
-('Eva', NULL, 70000)   -- Без отдела
+('Eva', NULL, 70000);   -- Без отдела
 
 
 INSERT INTO projects (name, lead_employee_id) VALUES
